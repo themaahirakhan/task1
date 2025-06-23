@@ -30,3 +30,7 @@ Region_Sales
 This table shows all sales made for games in each region. It's the main table used to calculate the sales for queries.
 
 The num_sales column is the number of sales of the game in the region, and the number is in millions.
+
+
+![image](https://github.com/user-attachments/assets/21e8dafb-60cf-47a7-8534-092e2518c297)
+
